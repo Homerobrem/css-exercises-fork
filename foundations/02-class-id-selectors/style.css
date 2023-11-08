@@ -1,0 +1,18 @@
+#Number2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#Number4 {
+    background-color: rgb(150, 255, 150);
+    font-size: 24px;
+    font-weight: bold; 
+}
+.Number1,
+.Number5,
+.Number3 {
+    background-color: rgb(255, 161, 161);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.Number3 {
+    font-size: 24px;
+}
